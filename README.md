@@ -1,1 +1,1 @@
-# CompScience.io
+# CompScience
