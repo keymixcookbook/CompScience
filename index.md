@@ -9,6 +9,8 @@ Things that are relate to digital compositing, and not specific to nuke or any o
 - Matrix (Filters, Normals, ...)
 - log vs raw
 - Physics of Light
-- Optical Artifacts (Fringing, Halation, Chromatic Abbration, Distortion)
+- Optical Artifacts (Fringing, Halation, Chromatic Aberration, Distortion)
 - Codecs, Formats and Containers
-- Subserface Scattering
+- Subsurface Scattering
+- Renderman
+- Arnold
