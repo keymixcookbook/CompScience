@@ -15,6 +15,7 @@ Things that are relate to digital compositing, and not specific to nuke or any o
   - [ACES by Brylka Toodee](https://www.toodee.de/?page_id=752)(Practical usage of ACES in a freelance workflow)
 - Color Theory (Color Harmony, Illusions...)
 - Matrix (Filters, Normals, ...)
+  - Sharpening ([Sharpening - Standford lecture slides](https://web.stanford.edu/class/cs448f/lectures/2.1/Sharpening.pdf))
 - log vs raw
 - Physics of Light
 - Optical Artifacts (Fringing, Halation, Chromatic Aberration, Distortion)
