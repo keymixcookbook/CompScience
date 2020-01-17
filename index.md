@@ -18,6 +18,9 @@ Things that are relate to digital compositing, and not specific to nuke or any o
   - Sharpening ([Sharpening - Standford lecture slides](https://web.stanford.edu/class/cs448f/lectures/2.1/Sharpening.pdf))
 - log vs raw
 - Physics of Light
+  - [Physics classroom](https://www.physicsclassroom.com/class)
+    - [Laws of Reflection - Physicsclassroom](https://www.physicsclassroom.com/class/refln)
+    - [Laws of Refraction - Physicsclassroom](https://www.physicsclassroom.com/class/refrn)
 - Optical Artifacts (Fringing, Halation, Chromatic Aberration, Distortion)
 - Codecs, Formats and Containers
 - Subsurface Scattering
