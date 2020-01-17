@@ -17,14 +17,17 @@ Things that are relate to digital compositing, and not specific to nuke or any o
 - Matrix (Filters, Normals, ...)
   - Sharpening ([Sharpening - Standford lecture slides](https://web.stanford.edu/class/cs448f/lectures/2.1/Sharpening.pdf))
 - log vs raw
+  - [log vs raw vs uncompressed - Ablecine](https://www.abelcine.com/articles/blog-and-knowledge/tutorials-and-guides/raw-log-and-uncompressed-explained)
 - Physics of Light
   - [Physics classroom](https://www.physicsclassroom.com/class)
     - [Laws of Reflection - Physicsclassroom](https://www.physicsclassroom.com/class/refln)
     - [Laws of Refraction - Physicsclassroom](https://www.physicsclassroom.com/class/refrn)
 - Optical Artifacts (Fringing, Halation, Chromatic Aberration, Distortion)
 - Codecs, Formats and Containers
-- Subsurface Scattering
-- Renderman
-- Arnold
+- Renderer and engineering
+  - [OpenGL - learnopengl](https://learnopengl.com/)
+  - Subsurface Scattering
+  - Renderman
+  - Arnold
 - Physics of Space
 - Physics of Macros
