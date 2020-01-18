@@ -11,9 +11,11 @@ Things that are relate to digital compositing, and not specific to nuke or any o
   - Patterns
   - Art Movements (Modern, Contemporary, Impressionism, Baroque, Renaissance...)
 - Color Science
-  - [Color Spaces by Bartosz Ciechanowski](https://ciechanow.ski/color-spaces/)(from simple RGB value to Color Encoding Algerathem)
-  - [ACES by Brylka Toodee](https://www.toodee.de/?page_id=752)(Practical usage of ACES in a freelance workflow)
-- Color Theory (Color Harmony, Illusions...)
+  - [Color Spaces by Bartosz Ciechanowski](https://ciechanow.ski/color-spaces/) (from simple RGB value to Color Encoding Algerathem)
+  - [ACES by Brylka Toodee](https://www.toodee.de/?page_id=752) (Practical usage of ACES in a freelance workflow)
+  - [Getting to Know ACES](https://mixinglight.com/tutorial-series/getting-to-know-aces/) (4-part intro Resolve-VFX)
+  - [Colour](https://github.com/colour-science/colour/blob/develop/README.rst) (Algerathim with Python API)
+- Color Theory in Fine Art(Color Harmony, Illusions...)
 - Matrix (Filters, Normals, ...)
   - Sharpening ([Sharpening - Standford lecture slides](https://web.stanford.edu/class/cs448f/lectures/2.1/Sharpening.pdf))
 - log vs raw
