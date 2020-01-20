@@ -20,6 +20,7 @@ Things that are relate to digital compositing, and not specific to nuke or any o
   - [The Math in Color Space](https://thevfxdesk.com/2019/01/07/colorspace-for-cgi-artist-part-i/)
 - **Color Theory in Fine Art** (Color Harmony, Illusions...)
 - **Matrix** (Filters, Normals, ...)
+  - Filtering (Impulse, Cubic, Sin, Lanczos...)
   - Sharpening ([Sharpening - Standford lecture slides](https://web.stanford.edu/class/cs448f/lectures/2.1/Sharpening.pdf))
 - **Colour Space**
   - [log vs raw vs uncompressed - Ablecine](https://www.abelcine.com/articles/blog-and-knowledge/tutorials-and-guides/raw-log-and-uncompressed-explained)
