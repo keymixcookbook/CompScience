@@ -29,6 +29,7 @@ Things that are relate to digital compositing, and not specific to nuke or any o
     - [Laws of Refraction - Physicsclassroom](https://www.physicsclassroom.com/class/refrn)
 - **Optical Artifacts** (Fringing, Halation, Chromatic Aberration, Distortion)
 - **Codecs, Formats and Containers**
+  - [File formates and bit-depth comparsion](https://taukeke.com/2014/10/comparing-bit-depth-and-format-for-colour-grading/)
 - **Renderer and Engineering**
   - [OpenGL - learnopengl](https://learnopengl.com/)
   - Subsurface Scattering
