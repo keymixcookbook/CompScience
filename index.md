@@ -38,3 +38,7 @@ Things that are relate to digital compositing, and not specific to nuke or any o
   - Arnold
 - **Physics of Space**
 - **Physics of Macros**
+- **AI**
+  - Autoencoder
+    - [Wiki](https://en.wikipedia.org/wiki/Autoencoder)
+    - [What is an Autoencoder - Two Minute Paper](https://www.youtube.com/watch?v=Rdpbnd0pCiI)
