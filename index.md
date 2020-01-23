@@ -28,6 +28,7 @@ Things that are relate to digital compositing, and not specific to nuke or any o
   - [Physics classroom](https://www.physicsclassroom.com/class)
     - [Laws of Reflection - Physicsclassroom](https://www.physicsclassroom.com/class/refln)
     - [Laws of Refraction - Physicsclassroom](https://www.physicsclassroom.com/class/refrn)
+  - [Glare Remove](https://graphics.stanford.edu/papers/glare_removal/glare_removal.pdf) (stanford paper)
 - **Optical Artifacts** (Fringing, Halation, Chromatic Aberration, Distortion)
 - **Codecs, Formats and Containers**
   - [File formates and bit-depth comparsion](https://taukeke.com/2014/10/comparing-bit-depth-and-format-for-colour-grading/)
