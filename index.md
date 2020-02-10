@@ -22,6 +22,8 @@ Things that are relate to digital compositing, and not specific to nuke or any o
 - **Matrix** (Filters, Normals, ...)
   - Filtering (Impulse, Cubic, Sin, Lanczos...)
   - Sharpening ([Sharpening - Standford lecture slides](https://web.stanford.edu/class/cs448f/lectures/2.1/Sharpening.pdf))
+  - Canny Edge Detection (Step by Step in Python)[https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123]
+  - (Computer vision - Computerphile)[https://www.youtube.com/playlist?list=PLzH6n4zXuckoRdljSlM2k35BufTYXNNeF]
 - **Colour Space**
   - [log vs raw vs uncompressed - Ablecine](https://www.abelcine.com/articles/blog-and-knowledge/tutorials-and-guides/raw-log-and-uncompressed-explained)
 - **Physics of Light**
