@@ -32,6 +32,7 @@ Things that are relate to digital compositing, and not specific to nuke or any o
     - [Laws of Refraction - Physicsclassroom](https://www.physicsclassroom.com/class/refrn)
   - [Glare Remove](https://graphics.stanford.edu/papers/glare_removal/glare_removal.pdf) (stanford paper)
 - **Optical Artifacts** (Fringing, Halation, Chromatic Aberration, Distortion)
+  - [Light Bends around defocused object](https://physics.stackexchange.com/questions/111006/how-does-light-bend-around-my-finger-tip)
 - **Codecs, Formats and Containers**
   - [File formates and bit-depth comparsion](https://taukeke.com/2014/10/comparing-bit-depth-and-format-for-colour-grading/)
 - **Renderer and Engineering**
