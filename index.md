@@ -19,6 +19,8 @@ Things that are relate to digital compositing, and not specific to nuke or any o
   - [Color Space in the VFX pipline - Steve Wright](https://www.fxecademy.com/color-spaces-of-the-vfx-pipeline)
   - [The Math in Color Space](https://thevfxdesk.com/2019/01/07/colorspace-for-cgi-artist-part-i/)
 - **Color Theory in Fine Art** (Color Harmony, Illusions...)
+- **Art of Cinematography**
+  - [Ford vs Ferrari Cinematography Breakdown](https://www.youtube.com/watch?v=o377W_ZwW5E)
 - **Matrix** (Filters, Normals, ...)
   - Filtering (Impulse, Cubic, Sin, Lanczos...)
   - Sharpening ([Sharpening - Standford lecture slides](https://web.stanford.edu/class/cs448f/lectures/2.1/Sharpening.pdf))
