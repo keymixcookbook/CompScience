@@ -27,6 +27,8 @@ Things that are relate to digital compositing, and not specific to nuke or any o
   - Sharpening ([Sharpening - Standford lecture slides](https://web.stanford.edu/class/cs448f/lectures/2.1/Sharpening.pdf))
   - Canny Edge Detection [Step by Step in Python](https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123)
   - [Computer vision - Computerphile](https://www.youtube.com/playlist?list=PLzH6n4zXuckoRdljSlM2k35BufTYXNNeF)
+  - Transform Matrix [3D Transform](https://www.tutorialspoint.com/computer_graphics/3d_transformation.htm) | [matrix transform - Andrea Geremia](http://www.andreageremia.it/tutorial_matrix_transform.html)
+
 - **Colour Space**
   - [log vs raw vs uncompressed - Ablecine](https://www.abelcine.com/articles/blog-and-knowledge/tutorials-and-guides/raw-log-and-uncompressed-explained)
 - **Physics of Light**
