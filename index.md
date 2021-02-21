@@ -18,6 +18,7 @@ Things that are relate to digital compositing, and not specific to nuke or any o
   - [Art of Digital Color - fxguide](https://www.fxguide.com/fxfeatured/the-art-of-digital-color/)
   - [Color Space in the VFX pipline - Steve Wright](https://www.fxecademy.com/color-spaces-of-the-vfx-pipeline)
   - [The Math in Color Space](https://thevfxdesk.com/2019/01/07/colorspace-for-cgi-artist-part-i/)
+  - [Cinematic Color 2 - Nick Shaw](https://nick-shaw.github.io/cinematiccolor/)
 - **Color Theory in Fine Art** (Color Harmony, Illusions...)
 - **Art of Cinematography**
   - [Ford vs Ferrari Cinematography Breakdown](https://www.youtube.com/watch?v=o377W_ZwW5E)
@@ -26,6 +27,8 @@ Things that are relate to digital compositing, and not specific to nuke or any o
   - Sharpening ([Sharpening - Standford lecture slides](https://web.stanford.edu/class/cs448f/lectures/2.1/Sharpening.pdf))
   - Canny Edge Detection [Step by Step in Python](https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123)
   - [Computer vision - Computerphile](https://www.youtube.com/playlist?list=PLzH6n4zXuckoRdljSlM2k35BufTYXNNeF)
+  - Transform Matrix [3D Transform](https://www.tutorialspoint.com/computer_graphics/3d_transformation.htm) | [matrix transform - Andrea Geremia](http://www.andreageremia.it/tutorial_matrix_transform.html)
+
 - **Colour Space**
   - [log vs raw vs uncompressed - Ablecine](https://www.abelcine.com/articles/blog-and-knowledge/tutorials-and-guides/raw-log-and-uncompressed-explained)
 - **Physics of Light**
